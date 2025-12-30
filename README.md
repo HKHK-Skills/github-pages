@@ -9,7 +9,7 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Loo veebileht või blogi oma GitHubi repositooriumitest GitHub Pages'iga._
 
 </header>
 
@@ -19,45 +19,45 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   and tell the learner why they should take the course.
 -->
 
-## Welcome
+## Tere tulemast
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+GitHub Pages'iga saad majutada projekti blogisid, dokumentatsiooni, CV-sid, portfoolioid või muud staatilist sisu. Sinu GitHubi repositoorium võib kergesti muutuda oma veebileheks. Sellel kursusel näitame, kuidas seadistada oma veebilehte või blogi GitHub Pages'i abil.
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+- **Kellele see on**: Algajatele, õpilastele, projektide haldajatele, väikeettevõtetele.
+- **Mida õpid**: Kuidas ehitada GitHub Pages veebilehte.
+- **Mida ehitad**: Ehitame lihtsa GitHub Pages veebilehe koos blogiga. Kasutame [Jekyll](https://jekyllrb.com)'it, staatiliste lehtede generaatorit.
+- **Eeltingimused**: Kui pead õppima harude, commit'ide ja pull request'ide kohta, läbi esmalt kursus [Sissejuhatus GitHubi](https://github.com/skills/introduction-to-github).
+- **Kestus**: Selle kursuse läbimine võtab vähem kui tund.
 
-In this course, you will:
+Sellel kursusel sa:
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
+1. Lülitad sisse GitHub Pages'i
+2. Seadistad oma veebilehe
+3. Kohandad oma avalehte
+4. Lood blogipostituse
+5. Ühendad oma pull request'i
 
-### How to start this course
+### Kuidas alustada seda kursust
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
+  template_owner: 'HKHK-Skills',
   template_name: 'github-pages',
   owner: '@me',
   name: 'skills-github-pages',
-  description: 'My clone repository',
+  description: 'Minu kursuse repo',
   visibility: 'public',
 }).toString()
 -->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=HKHK-Skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=Minu+kursuse+repo&visibility=public)
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+1. Tee paremklikk nupul **Start course** ja ava link uuel vahekaardil.
+2. Uuel vahekaardil täituvad enamik välju automaatselt.
+   - Omanikuks (owner) vali oma isiklik konto või organisatsioon.
+   - Soovitame luua avaliku (public) repositooriumi, kuna privaatsed repod [kasutavad Actions minuteid](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - Keri alla ja kliki vormi allosas nuppu **Create repository**.
+3. Pärast uue repositooriumi loomist oota umbes 20 sekundit, seejärel värskenda lehte. Järgi samm-sammult juhiseid uue repositooriumi README-s.
 
 <footer>
 
@@ -68,8 +68,8 @@ In this course, you will:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Abi saamiseks: [Postita meie arutelufoorumis](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Vaata GitHubi staatuslehte](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 GitHub &bull; [Käitumisjuhend](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT litsents](https://gh.io/mit)
 
 </footer>

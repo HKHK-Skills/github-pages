@@ -5,25 +5,25 @@
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+## Samm 2: Seadista oma veebileht
 
-_You turned on GitHub Pages! :tada:_
+_Sa lülitasid GitHub Pages'i sisse! :tada:_
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+Töötame harus `my-pages`, mille lõin sulle, et see veebileht hea välja näeks. :sparkle:
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+Jekyll kasutab faili nimega `_config.yml`, et salvestada sinu veebilehe seadeid, teemat ja korduvkasutatavat sisu nagu veebilehe pealkiri ja GitHubi kasutajanimi. Saad vaadata `_config.yml` faili oma repositooriumi vahekaardil **Code**.
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+Meil on vaja blogiks sobivat teemat. Selles tegevuses kasutame teemat nimega "minima".
 
-### :keyboard: Activity: Configure your site
+### :keyboard: Tegevus: Seadista oma veebileht
 
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+1. Navigeeri faili `_config.yml` juurde harus `my-pages`.
+1. Üleval paremal ava failiredaktor.
+1. Lisa `theme:` väärtuseks **minima**, nii et `_config.yml` failis näeb välja selline:
    ```yml
    theme: minima
    ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. (valikuline) Saad muuta teisi seadistusmuutujaid nagu `title:`, `author:` ja `description:`, et oma veebilehte veelgi kohandada.
+1. Commit'i oma muudatused.
+1. (valikuline) Loo pull request, et näha kõiki muudatusi, mida selle kursuse jooksul teed. Kliki vahekaardil **Pull Requests**, kliki **New pull request**, sea `base: main` ja `compare:my-pages`.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

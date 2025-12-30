@@ -5,17 +5,17 @@
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-## Step 3: Customize your homepage
+## Samm 3: Kohanda oma avalehte
 
-_Nice work setting the theme! :sparkles:_
+_Hea töö teema seadistamisega! :sparkles:_
 
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
+Saad kohandada oma avalehte, lisades sisu kas `index.md` faili või `README.md` faili. GitHub Pages otsib esmalt `index.md` faili. Sinu repositooriumis on `index.md` fail, nii et saame seda uuendada, et lisada sinu isikupärastatud sisu.
 
-### :keyboard: Activity: Create your homepage
+### :keyboard: Tegevus: Loo oma avaleht
 
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Navigeeri faili `index.md` juurde harus `my-pages`.
+1. Üleval paremal ava failiredaktor.
+1. Kirjuta sisu, mida soovid oma avalehel näha. Saad sellel lehel kasutada Markdown'i vormindust.
+1. (valikuline) Saad muuta ka `title:` või lihtsalt ignoreeri seda praegu. Räägime sellest järgmises sammus.
+1. Commit'i oma muudatused harusse `my-pages`.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

@@ -3,25 +3,25 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## Lõpeta
 
-_Congratulations friend, you've completed this course!_
+_Palju õnne sõber, oled selle kursuse lõpetanud!_
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-Your blog is now live and has been deployed!
+Sinu blogi on nüüd live ja deploy'tud!
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Siin on kokkuvõte kõigist ülesannetest, mida oled oma repositooriumis täitnud:
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+- Sa lülitasid sisse GitHub Pages'i.
+- Sa valisid teema, kasutades config faili.
+- Sa õppisid Jekyll'i õiget kausta formaati ja failide nimetamise reegleid.
+- Sa lõid oma esimese blogipostituse Jekyll'iga!
 
-### What's next?
+### Mis edasi?
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- Jätka oma GitHub Pages veebilehe kallal töötamist... meile meeldib näha, mida sa lood!
+- Tahaksime kuulda, mida arvad sellest kursusest [meie arutelufoorumis](https://github.com/orgs/skills/discussions/categories/github-pages).
+- [Läbi veel üks GitHub Skills kursus](https://github.com/skills).
+- [Loe GitHubi alustamise dokumentatsiooni](https://docs.github.com/en/get-started).
+- Projektide leidmiseks, kuhu panustada, vaata [GitHub Explore](https://github.com/explore)'i.
